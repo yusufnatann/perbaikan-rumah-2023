@@ -1,0 +1,523 @@
+kode_area;jumlah_penduduk;jumlah_rumah_sudah_terdata;jumlah_rumah_membutuhkan_renovasi;jumlah_rumah_telah_direnovasi;jumlah_rumah_dalam_proses_renovasi;status_proyek
+9;Aceh;12;100;120;200;aktif
+12;Sumatera Utara;20;100;120;200;aktif
+13;Sumatera Barat;60;100;120;200;aktif
+14;Riau;50;100;400;200;aktif
+15;Jambi;90;100;400;200;aktif
+16;Sumatera Selatan;20;100;400;200;tidak_aktif
+17;Bengkulu;20;100;400;200;tidak_aktif
+18;Lampung;20;140;400;200;tidak_aktif
+19;Kepulauan Bangka Belitung;20;140;300;50;tidak_aktif
+21;Kepulauan Riau;20;140;300;50;tidak_aktif
+31;DKI Jakarta;90;140;300;50;tidak_aktif
+32;Jawa Barat;90;140;300;50;tidak_aktif
+33;Jawa Tengah;90;140;300;50;aktif
+34;DI Yogyakarta;70;140;300;50;aktif
+35;Jawa Timur;70;140;300;50;aktif
+36;Banten;70;140;300;50;aktif
+51;Bali;70;175;300;160;aktif
+52;Nusa Tenggara Barat;70;175;300;160;aktif
+53;Nusa Tenggara Timur;70;175;257;160;aktif
+61;Kalimantan Barat;50;175;257;160;tidak_aktif
+62;Kalimantan Tengah;50;175;257;160;tidak_aktif
+63;Kalimantan Selatan;20;175;257;160;tidak_aktif
+64;Kalimantan Timur;20;190;257;160;tidak_aktif
+65;Kalimantan Utara;20;190;257;256;tidak_aktif
+71;Sulawesi Utara;70;190;257;256;tidak_aktif
+72;Sulawesi Tengah;70;190;290;256;tidak_aktif
+73;Sulawesi Selatan;70;190;290;256;tidak_aktif
+74;Sulawesi Tenggara;25;190;290;256;tidak_aktif
+75;Gorontalo;25;60;290;256;aktif
+76;Sulawesi Barat;25;60;290;256;aktif
+81;Maluku;25;60;290;256;aktif
+82;Maluku Utara;30;60;320;256;aktif
+91;Papua;30;60;320;123;aktif
+92;Papua Barat;10;60;320;123;aktif
+9;Aceh;20;100;320;123;aktif
+12;Sumatera Utara;60;100;320;123;aktif
+13;Sumatera Barat;50;100;320;123;tidak_aktif
+14;Riau;90;100;320;123;tidak_aktif
+15;Jambi;20;100;320;123;tidak_aktif
+16;Sumatera Selatan;20;100;320;123;tidak_aktif
+17;Bengkulu;20;100;320;123;tidak_aktif
+18;Lampung;20;140;320;255;aktif
+19;Kepulauan Bangka Belitung;20;140;120;255;aktif
+21;Kepulauan Riau;90;140;120;255;aktif
+31;DKI Jakarta;90;140;120;255;aktif
+32;Jawa Barat;90;140;400;255;aktif
+33;Jawa Tengah;70;140;400;255;aktif
+34;DI Yogyakarta;70;140;400;255;aktif
+35;Jawa Timur;70;140;400;255;tidak_aktif
+36;Banten;70;140;400;200;tidak_aktif
+51;Bali;70;175;300;200;tidak_aktif
+52;Nusa Tenggara Barat;70;175;300;200;tidak_aktif
+53;Nusa Tenggara Timur;50;175;300;200;tidak_aktif
+61;Kalimantan Barat;50;175;300;200;tidak_aktif
+62;Kalimantan Tengah;20;175;300;200;tidak_aktif
+63;Kalimantan Selatan;20;175;300;200;tidak_aktif
+64;Kalimantan Timur;20;190;300;200;tidak_aktif
+65;Kalimantan Utara;70;190;300;200;tidak_aktif
+71;Sulawesi Utara;70;190;300;200;tidak_aktif
+72;Sulawesi Tengah;70;190;300;200;aktif
+73;Sulawesi Selatan;25;190;257;200;aktif
+74;Sulawesi Tenggara;25;190;257;200;aktif
+75;Gorontalo;25;60;257;200;aktif
+76;Sulawesi Barat;25;60;257;200;aktif
+81;Maluku;30;60;257;50;tidak_aktif
+82;Maluku Utara;30;60;257;50;tidak_aktif
+91;Papua;10;60;257;50;tidak_aktif
+92;Papua Barat;20;60;290;50;tidak_aktif
+9;Aceh;60;100;290;50;tidak_aktif
+12;Sumatera Utara;50;100;290;50;tidak_aktif
+13;Sumatera Barat;90;100;290;50;tidak_aktif
+14;Riau;20;100;290;50;aktif
+15;Jambi;20;100;290;160;aktif
+16;Sumatera Selatan;20;100;320;160;aktif
+17;Bengkulu;20;100;320;160;aktif
+18;Lampung;20;140;320;160;aktif
+19;Kepulauan Bangka Belitung;90;140;320;160;aktif
+21;Kepulauan Riau;90;140;320;160;aktif
+31;DKI Jakarta;90;140;320;160;tidak_aktif
+32;Jawa Barat;70;140;320;256;tidak_aktif
+33;Jawa Tengah;70;140;320;256;tidak_aktif
+34;DI Yogyakarta;70;140;320;256;tidak_aktif
+35;Jawa Timur;70;140;320;256;tidak_aktif
+36;Banten;70;140;320;256;tidak_aktif
+51;Bali;70;175;120;256;tidak_aktif
+52;Nusa Tenggara Barat;50;175;120;256;tidak_aktif
+53;Nusa Tenggara Timur;50;175;120;256;tidak_aktif
+61;Kalimantan Barat;20;175;400;256;aktif
+62;Kalimantan Tengah;20;175;400;123;aktif
+63;Kalimantan Selatan;20;175;400;123;aktif
+64;Kalimantan Timur;70;190;400;123;aktif
+65;Kalimantan Utara;70;190;400;123;aktif
+71;Sulawesi Utara;70;190;300;123;aktif
+72;Sulawesi Tengah;25;190;300;123;aktif
+73;Sulawesi Selatan;25;190;300;123;aktif
+74;Sulawesi Tenggara;25;190;300;123;tidak_aktif
+75;Gorontalo;25;60;300;123;tidak_aktif
+76;Sulawesi Barat;30;60;300;255;tidak_aktif
+81;Maluku;30;60;300;255;tidak_aktif
+82;Maluku Utara;10;60;300;255;tidak_aktif
+91;Papua;20;60;300;255;aktif
+92;Papua Barat;60;60;300;255;aktif
+9;Aceh;50;100;257;255;aktif
+12;Sumatera Utara;90;100;257;255;aktif
+13;Sumatera Barat;20;100;257;255;aktif
+14;Riau;20;100;257;200;aktif
+15;Jambi;20;100;257;200;aktif
+16;Sumatera Selatan;20;100;257;200;tidak_aktif
+17;Bengkulu;20;100;257;200;tidak_aktif
+18;Lampung;90;140;290;200;tidak_aktif
+19;Kepulauan Bangka Belitung;90;140;290;200;tidak_aktif
+21;Kepulauan Riau;90;140;290;200;tidak_aktif
+31;DKI Jakarta;70;140;290;200;tidak_aktif
+32;Jawa Barat;70;140;290;200;tidak_aktif
+33;Jawa Tengah;70;140;290;200;tidak_aktif
+34;DI Yogyakarta;70;140;320;200;tidak_aktif
+35;Jawa Timur;70;140;320;200;tidak_aktif
+36;Banten;70;140;320;200;tidak_aktif
+51;Bali;20;175;320;200;aktif
+52;Nusa Tenggara Barat;60;175;320;200;aktif
+53;Nusa Tenggara Timur;50;175;320;50;aktif
+61;Kalimantan Barat;90;175;320;50;aktif
+62;Kalimantan Tengah;20;175;320;50;aktif
+63;Kalimantan Selatan;20;175;320;50;tidak_aktif
+64;Kalimantan Timur;20;190;320;50;tidak_aktif
+65;Kalimantan Utara;20;190;320;50;tidak_aktif
+71;Sulawesi Utara;20;190;120;50;tidak_aktif
+72;Sulawesi Tengah;90;190;120;50;tidak_aktif
+73;Sulawesi Selatan;90;190;120;160;tidak_aktif
+74;Sulawesi Tenggara;90;190;400;160;tidak_aktif
+75;Gorontalo;70;60;400;160;aktif
+76;Sulawesi Barat;70;60;400;160;aktif
+81;Maluku;70;60;400;160;aktif
+82;Maluku Utara;70;60;400;160;aktif
+91;Papua;70;60;300;160;aktif
+92;Papua Barat;70;60;300;256;aktif
+9;Aceh;50;100;300;256;aktif
+12;Sumatera Utara;50;100;300;256;tidak_aktif
+13;Sumatera Barat;20;100;300;256;tidak_aktif
+14;Riau;20;100;300;256;tidak_aktif
+15;Jambi;20;100;300;256;tidak_aktif
+16;Sumatera Selatan;70;100;300;256;tidak_aktif
+17;Bengkulu;70;100;300;256;tidak_aktif
+18;Lampung;70;140;300;256;tidak_aktif
+19;Kepulauan Bangka Belitung;25;140;257;123;tidak_aktif
+21;Kepulauan Riau;25;140;257;123;tidak_aktif
+31;DKI Jakarta;25;140;257;123;aktif
+32;Jawa Barat;25;140;257;123;aktif
+33;Jawa Tengah;30;140;257;123;aktif
+34;DI Yogyakarta;30;140;257;123;aktif
+35;Jawa Timur;10;140;257;123;aktif
+36;Banten;20;140;290;123;aktif
+51;Bali;60;175;290;123;aktif
+52;Nusa Tenggara Barat;50;175;290;255;aktif
+53;Nusa Tenggara Timur;90;175;290;255;tidak_aktif
+61;Aceh;20;175;290;255;tidak_aktif
+62;Sumatera Utara;20;175;290;255;tidak_aktif
+63;Sumatera Barat;20;175;320;255;tidak_aktif
+64;Riau;20;190;320;255;tidak_aktif
+65;Jambi;20;190;320;255;aktif
+71;Sumatera Selatan;90;190;320;255;aktif
+72;Bengkulu;90;190;320;200;aktif
+73;Lampung;90;190;320;200;aktif
+74;Kepulauan Bangka Belitung;70;190;320;200;aktif
+75;Kepulauan Riau;70;60;320;200;aktif
+76;DKI Jakarta;70;60;320;200;aktif
+81;Jawa Barat;70;60;320;200;tidak_aktif
+82;Jawa Tengah;70;60;320;200;tidak_aktif
+91;DI Yogyakarta;70;60;120;200;tidak_aktif
+92;Jawa Timur;50;60;120;200;tidak_aktif
+9;Banten;50;100;120;200;tidak_aktif
+12;Bali;20;100;400;200;tidak_aktif
+13;Nusa Tenggara Barat;20;100;400;200;tidak_aktif
+14;Nusa Tenggara Timur;20;100;400;200;tidak_aktif
+15;Kalimantan Barat;70;100;400;200;tidak_aktif
+16;Kalimantan Tengah;70;100;400;200;tidak_aktif
+17;Kalimantan Selatan;70;100;300;50;tidak_aktif
+18;Kalimantan Timur;25;140;300;50;aktif
+19;Kalimantan Utara;25;140;300;50;aktif
+21;Sulawesi Utara;25;140;300;50;aktif
+31;Sulawesi Tengah;25;140;300;50;aktif
+32;Sulawesi Selatan;30;140;300;50;aktif
+33;Sulawesi Tenggara;30;140;300;50;tidak_aktif
+34;Gorontalo;10;140;300;50;tidak_aktif
+35;Sulawesi Barat;20;140;300;160;tidak_aktif
+36;Maluku;60;140;300;160;tidak_aktif
+51;Maluku Utara;50;175;257;160;tidak_aktif
+52;Papua;90;175;257;160;tidak_aktif
+53;Papua Barat;20;175;257;160;tidak_aktif
+61;Aceh;20;175;257;160;aktif
+62;Sumatera Utara;20;175;257;160;aktif
+63;Sumatera Barat;20;175;257;256;aktif
+64;Riau;20;190;257;256;aktif
+65;Jambi;90;190;290;256;aktif
+71;Sumatera Selatan;90;190;290;256;aktif
+72;Bengkulu;90;190;290;256;aktif
+73;Lampung;70;190;290;256;tidak_aktif
+74;Kepulauan Bangka Belitung;70;190;290;256;tidak_aktif
+75;Kepulauan Riau;70;60;290;256;tidak_aktif
+76;DKI Jakarta;70;60;320;256;tidak_aktif
+81;Jawa Barat;70;60;320;123;tidak_aktif
+82;Jawa Tengah;70;60;320;123;tidak_aktif
+91;DI Yogyakarta;50;60;320;123;tidak_aktif
+92;Jawa Timur;50;60;320;123;tidak_aktif
+9;Banten;20;100;320;123;tidak_aktif
+12;Bali;20;100;320;123;aktif
+13;Nusa Tenggara Barat;20;100;320;123;aktif
+14;Nusa Tenggara Timur;70;100;320;123;aktif
+15;Kalimantan Barat;70;100;320;123;aktif
+16;Kalimantan Tengah;70;100;320;255;aktif
+17;Kalimantan Selatan;25;100;120;255;aktif
+18;Kalimantan Timur;25;140;120;255;aktif
+19;Kalimantan Utara;25;140;120;255;aktif
+21;Sulawesi Utara;25;140;400;255;tidak_aktif
+31;Sulawesi Tengah;30;140;400;255;tidak_aktif
+32;Sulawesi Selatan;30;140;400;255;tidak_aktif
+33;Sulawesi Tenggara;10;140;400;255;tidak_aktif
+34;Gorontalo;20;140;400;200;tidak_aktif
+35;Sulawesi Barat;60;140;300;200;aktif
+36;Maluku;50;140;300;200;aktif
+51;Maluku Utara;90;175;300;200;aktif
+52;Papua;20;175;300;200;aktif
+53;Papua Barat;20;175;300;200;aktif
+61;Aceh;20;175;300;200;aktif
+62;Sumatera Utara;20;175;300;200;aktif
+63;Sumatera Barat;20;175;300;200;tidak_aktif
+64;Riau;90;190;300;200;tidak_aktif
+65;Jambi;90;190;300;200;tidak_aktif
+71;Sumatera Selatan;90;190;257;200;tidak_aktif
+72;Bengkulu;70;190;257;200;tidak_aktif
+73;Lampung;70;190;257;200;tidak_aktif
+74;Kepulauan Bangka Belitung;70;190;257;200;tidak_aktif
+75;Kepulauan Riau;70;60;257;50;tidak_aktif
+76;DKI Jakarta;70;60;257;50;tidak_aktif
+81;Jawa Barat;70;60;257;50;tidak_aktif
+82;Jawa Tengah;12;60;290;50;tidak_aktif
+91;DI Yogyakarta;20;60;290;50;aktif
+92;Jawa Timur;60;60;290;50;aktif
+9;Banten;50;100;290;50;aktif
+12;Bali;90;100;290;50;aktif
+13;Nusa Tenggara Barat;20;100;290;160;aktif
+14;Nusa Tenggara Timur;20;100;320;160;tidak_aktif
+15;Kalimantan Barat;20;100;320;160;tidak_aktif
+16;Kalimantan Tengah;20;100;320;160;tidak_aktif
+17;Kalimantan Selatan;20;100;320;160;tidak_aktif
+18;Kalimantan Timur;90;140;320;160;tidak_aktif
+19;Kalimantan Utara;90;140;320;160;tidak_aktif
+21;Sulawesi Utara;90;140;320;256;tidak_aktif
+31;Sulawesi Tengah;70;140;320;256;aktif
+32;Sulawesi Selatan;70;140;320;256;aktif
+33;Sulawesi Tenggara;70;140;320;256;aktif
+34;Gorontalo;70;140;320;256;aktif
+35;Sulawesi Barat;70;140;120;256;aktif
+36;Maluku;70;140;120;256;aktif
+51;Maluku Utara;50;175;120;256;aktif
+52;Papua;50;175;400;256;tidak_aktif
+53;Papua Barat;20;175;400;123;tidak_aktif
+61;Aceh;20;175;400;123;tidak_aktif
+62;Sumatera Utara;20;175;400;123;tidak_aktif
+63;Sumatera Barat;70;175;400;123;tidak_aktif
+64;Riau;70;190;300;123;tidak_aktif
+65;Jambi;70;190;300;123;tidak_aktif
+71;Sumatera Selatan;25;190;300;123;tidak_aktif
+72;Bengkulu;25;190;300;123;tidak_aktif
+73;Lampung;25;190;300;123;aktif
+74;Kepulauan Bangka Belitung;25;190;300;255;aktif
+75;Kepulauan Riau;30;60;300;255;aktif
+76;DKI Jakarta;30;60;300;255;aktif
+81;Jawa Barat;10;60;300;255;aktif
+82;Jawa Tengah;20;60;300;255;aktif
+91;DI Yogyakarta;60;60;257;255;aktif
+92;Jawa Timur;50;60;257;255;aktif
+9;Banten;90;100;257;255;tidak_aktif
+12;Bali;20;100;257;200;tidak_aktif
+13;Nusa Tenggara Barat;20;100;257;200;tidak_aktif
+14;Nusa Tenggara Timur;20;100;257;200;tidak_aktif
+15;Kalimantan Barat;20;100;257;200;tidak_aktif
+16;Kalimantan Tengah;20;100;290;200;aktif
+17;Kalimantan Selatan;90;100;290;200;aktif
+18;Kalimantan Timur;90;140;290;200;aktif
+19;Kalimantan Utara;90;140;290;200;aktif
+21;Sulawesi Utara;70;140;290;200;aktif
+31;Sulawesi Tengah;70;140;290;200;aktif
+32;Sulawesi Selatan;70;140;320;200;aktif
+33;Sulawesi Tenggara;70;140;320;200;tidak_aktif
+34;Gorontalo;70;140;320;200;tidak_aktif
+35;Sulawesi Barat;70;140;320;200;tidak_aktif
+36;Maluku;50;140;320;200;tidak_aktif
+51;Maluku Utara;50;175;320;50;tidak_aktif
+52;Papua;20;175;320;50;tidak_aktif
+53;Papua Barat;20;175;320;50;tidak_aktif
+61;Aceh;20;175;320;50;tidak_aktif
+62;Sumatera Utara;70;175;320;50;tidak_aktif
+63;Sumatera Barat;70;175;320;50;tidak_aktif
+64;Riau;70;190;120;50;tidak_aktif
+65;Jambi;25;190;120;50;aktif
+71;Sumatera Selatan;25;190;120;160;aktif
+72;Bengkulu;25;190;400;160;aktif
+73;Lampung;25;190;400;160;aktif
+74;Kepulauan Bangka Belitung;30;190;400;160;aktif
+75;Kepulauan Riau;30;60;400;160;tidak_aktif
+76;DKI Jakarta;10;60;400;160;tidak_aktif
+81;Jawa Barat;20;60;300;160;tidak_aktif
+82;Jawa Tengah;60;60;300;256;tidak_aktif
+91;DI Yogyakarta;50;60;300;256;tidak_aktif
+92;Jawa Timur;90;60;300;256;tidak_aktif
+9;Banten;20;100;300;256;tidak_aktif
+12;Bali;20;100;300;256;aktif
+13;Nusa Tenggara Barat;20;100;300;256;aktif
+14;Nusa Tenggara Timur;20;100;300;256;aktif
+15;Aceh;20;100;300;256;aktif
+16;Sumatera Utara;90;100;300;256;aktif
+17;Sumatera Barat;90;100;257;123;aktif
+18;Riau;90;140;257;123;aktif
+19;Jambi;70;140;257;123;tidak_aktif
+21;Sumatera Selatan;70;140;257;123;tidak_aktif
+31;Bengkulu;70;140;257;123;tidak_aktif
+32;Lampung;70;140;257;123;tidak_aktif
+33;Kepulauan Bangka Belitung;70;140;257;123;tidak_aktif
+34;Kepulauan Riau;70;140;290;123;tidak_aktif
+35;DKI Jakarta;50;140;290;123;tidak_aktif
+36;Jawa Barat;50;140;290;255;tidak_aktif
+51;Jawa Tengah;20;175;290;255;tidak_aktif
+52;DI Yogyakarta;20;175;290;255;aktif
+53;Jawa Timur;20;175;290;255;aktif
+61;Banten;70;175;320;255;aktif
+62;Bali;70;175;320;255;aktif
+63;Nusa Tenggara Barat;70;175;320;255;aktif
+64;Nusa Tenggara Timur;25;190;320;255;aktif
+65;Kalimantan Barat;25;190;320;200;aktif
+71;Kalimantan Tengah;25;190;320;200;aktif
+72;Kalimantan Selatan;25;190;320;200;tidak_aktif
+73;Kalimantan Timur;30;190;320;200;tidak_aktif
+74;Kalimantan Utara;30;190;320;200;tidak_aktif
+75;Sulawesi Utara;10;60;320;200;tidak_aktif
+76;Sulawesi Tengah;20;60;320;200;tidak_aktif
+81;Sulawesi Selatan;60;60;120;200;aktif
+82;Sulawesi Tenggara;50;60;120;200;aktif
+91;Gorontalo;90;60;120;200;aktif
+92;Sulawesi Barat;20;60;400;200;aktif
+9;Maluku;20;100;400;200;aktif
+12;Maluku Utara;20;100;400;200;aktif
+13;Papua;20;100;400;200;aktif
+14;Papua Barat;20;100;400;200;tidak_aktif
+15;Aceh;90;100;300;50;tidak_aktif
+16;Sumatera Utara;90;100;300;50;tidak_aktif
+17;Sumatera Barat;90;100;300;50;tidak_aktif
+18;Riau;70;140;300;50;tidak_aktif
+19;Jambi;70;140;300;50;tidak_aktif
+21;Sumatera Selatan;70;140;300;50;tidak_aktif
+31;Bengkulu;70;140;300;50;tidak_aktif
+32;Lampung;70;140;300;50;tidak_aktif
+33;Kepulauan Bangka Belitung;70;140;300;160;tidak_aktif
+34;Kepulauan Riau;20;140;300;160;tidak_aktif
+35;DKI Jakarta;60;140;257;160;aktif
+36;Jawa Barat;50;140;257;160;aktif
+51;Jawa Tengah;90;175;257;160;aktif
+52;DI Yogyakarta;20;175;257;160;aktif
+53;Jawa Timur;20;175;257;160;aktif
+61;Banten;20;175;257;256;tidak_aktif
+62;Bali;20;175;257;256;tidak_aktif
+63;Nusa Tenggara Barat;20;175;290;256;tidak_aktif
+64;Nusa Tenggara Timur;90;190;290;256;tidak_aktif
+65;Kalimantan Barat;90;190;290;256;tidak_aktif
+71;Kalimantan Tengah;90;190;290;256;tidak_aktif
+72;Kalimantan Selatan;70;190;290;256;tidak_aktif
+73;Kalimantan Timur;70;190;290;256;aktif
+74;Kalimantan Utara;70;190;320;256;aktif
+75;Sulawesi Utara;70;60;320;123;aktif
+76;Sulawesi Tengah;70;60;320;123;aktif
+81;Sulawesi Selatan;70;60;320;123;aktif
+82;Sulawesi Tenggara;50;60;320;123;aktif
+91;Gorontalo;50;60;320;123;aktif
+92;Sulawesi Barat;20;60;320;123;tidak_aktif
+9;Maluku;20;100;320;123;tidak_aktif
+12;Maluku Utara;20;100;320;123;tidak_aktif
+13;Papua;70;100;320;123;tidak_aktif
+14;Papua Barat;70;100;320;255;tidak_aktif
+15;Aceh;70;100;120;255;tidak_aktif
+16;Sumatera Utara;25;100;120;255;tidak_aktif
+17;Sumatera Barat;25;100;120;255;tidak_aktif
+18;Riau;25;140;400;255;tidak_aktif
+19;Jambi;25;140;400;255;aktif
+21;Sumatera Selatan;30;140;400;255;aktif
+31;Bengkulu;30;140;400;255;aktif
+32;Lampung;10;140;400;200;aktif
+33;Kepulauan Bangka Belitung;20;140;300;200;aktif
+34;Kepulauan Riau;60;140;300;200;aktif
+35;DKI Jakarta;50;140;300;200;aktif
+36;Jawa Barat;90;140;300;200;aktif
+51;Jawa Tengah;20;175;300;200;tidak_aktif
+52;DI Yogyakarta;20;175;300;200;tidak_aktif
+53;Jawa Timur;20;175;300;200;tidak_aktif
+61;Banten;20;175;300;200;tidak_aktif
+62;Bali;20;175;300;200;tidak_aktif
+63;Nusa Tenggara Barat;90;175;300;200;aktif
+64;Nusa Tenggara Timur;90;190;257;200;aktif
+65;Kalimantan Barat;90;190;257;200;aktif
+71;Kalimantan Tengah;70;190;257;200;aktif
+72;Kalimantan Selatan;70;190;257;200;aktif
+73;Kalimantan Timur;70;190;257;50;aktif
+74;Kalimantan Utara;70;190;257;50;aktif
+75;Sulawesi Utara;70;60;257;50;tidak_aktif
+76;Sulawesi Tengah;70;60;290;50;tidak_aktif
+81;Sulawesi Selatan;50;60;290;50;tidak_aktif
+82;Sulawesi Tenggara;50;60;290;50;tidak_aktif
+91;Gorontalo;20;60;290;50;tidak_aktif
+92;Sulawesi Barat;20;60;290;50;tidak_aktif
+9;Maluku;20;100;290;160;tidak_aktif
+12;Maluku Utara;70;100;320;160;tidak_aktif
+13;Papua;70;100;320;160;tidak_aktif
+14;Papua Barat;70;100;320;160;tidak_aktif
+15;Aceh;25;100;320;160;tidak_aktif
+16;Sumatera Utara;25;100;320;160;aktif
+17;Sumatera Barat;25;100;320;160;aktif
+18;Riau;25;140;320;256;aktif
+19;Jambi;30;140;320;256;aktif
+21;Sumatera Selatan;30;140;320;256;aktif
+31;Bengkulu;10;140;320;256;tidak_aktif
+32;Lampung;20;140;320;256;tidak_aktif
+33;Kepulauan Bangka Belitung;60;140;120;256;tidak_aktif
+34;Kepulauan Riau;50;140;120;256;tidak_aktif
+35;DKI Jakarta;90;140;120;256;tidak_aktif
+36;Jawa Barat;20;140;400;256;tidak_aktif
+51;Jawa Tengah;20;175;400;123;tidak_aktif
+52;DI Yogyakarta;20;175;400;123;aktif
+53;Jawa Timur;20;175;400;123;aktif
+61;Banten;20;175;400;123;aktif
+62;Bali;90;175;300;123;aktif
+63;Nusa Tenggara Barat;90;175;300;123;aktif
+64;Nusa Tenggara Timur;90;190;300;123;aktif
+65;Kalimantan Barat;70;190;300;123;aktif
+71;Kalimantan Tengah;70;190;300;123;tidak_aktif
+72;Kalimantan Selatan;70;190;300;255;tidak_aktif
+73;Kalimantan Timur;70;190;300;255;tidak_aktif
+74;Kalimantan Utara;70;190;300;255;tidak_aktif
+75;Sulawesi Utara;70;60;300;255;tidak_aktif
+76;Sulawesi Tengah;50;60;300;255;tidak_aktif
+81;Sulawesi Selatan;50;60;257;255;tidak_aktif
+82;Sulawesi Tenggara;20;60;257;255;tidak_aktif
+91;Gorontalo;20;60;257;255;tidak_aktif
+92;Sulawesi Barat;20;60;257;200;aktif
+9;Maluku;70;100;257;200;aktif
+12;Maluku Utara;70;100;257;200;aktif
+13;Papua;70;100;257;200;aktif
+14;Papua Barat;25;100;290;200;aktif
+15;Aceh;25;100;290;200;aktif
+16;Sumatera Utara;25;100;290;200;aktif
+17;Sumatera Barat;25;100;290;200;aktif
+18;Riau;30;140;290;200;tidak_aktif
+19;Jambi;30;140;290;200;tidak_aktif
+21;Sumatera Selatan;10;140;320;200;tidak_aktif
+31;Bengkulu;20;140;320;200;tidak_aktif
+32;Lampung;60;140;320;200;tidak_aktif
+33;Kepulauan Bangka Belitung;50;140;320;200;aktif
+34;Kepulauan Riau;90;140;320;200;aktif
+35;DKI Jakarta;20;140;320;200;aktif
+36;Jawa Barat;20;140;320;50;aktif
+51;Jawa Tengah;20;175;320;50;aktif
+52;DI Yogyakarta;20;175;320;50;aktif
+53;Jawa Timur;20;175;320;50;aktif
+61;Banten;90;175;320;50;tidak_aktif
+62;Bali;90;175;120;50;tidak_aktif
+63;Nusa Tenggara Barat;90;175;120;50;tidak_aktif
+64;Nusa Tenggara Timur;70;190;120;50;tidak_aktif
+65;Aceh;70;190;400;160;tidak_aktif
+71;Sumatera Utara;70;190;400;160;tidak_aktif
+72;Sumatera Barat;70;190;400;160;tidak_aktif
+73;Riau;70;190;400;160;tidak_aktif
+74;Jambi;70;190;400;160;tidak_aktif
+75;Sumatera Selatan;25;60;300;160;tidak_aktif
+76;Bengkulu;25;60;300;160;tidak_aktif
+81;Lampung;30;60;300;256;aktif
+82;Kepulauan Bangka Belitung;30;60;300;256;aktif
+91;Kepulauan Riau;10;60;300;256;aktif
+92;DKI Jakarta;20;60;300;256;aktif
+13;Jawa Barat;60;100;300;256;aktif
+14;Jawa Tengah;50;100;300;256;tidak_aktif
+15;DI Yogyakarta;90;100;300;200;tidak_aktif
+16;Jawa Timur;20;100;300;200;tidak_aktif
+17;Banten;20;100;257;200;tidak_aktif
+18;Bali;20;100;257;200;tidak_aktif
+19;Nusa Tenggara Barat;20;100;257;200;tidak_aktif
+21;Nusa Tenggara Timur;20;140;257;200;tidak_aktif
+31;Kalimantan Barat;90;140;257;200;aktif
+32;Kalimantan Tengah;90;140;257;200;aktif
+33;Kalimantan Selatan;90;140;257;200;aktif
+34;Kalimantan Timur;70;140;290;50;aktif
+35;Kalimantan Utara;70;140;290;50;aktif
+36;Sulawesi Utara;70;140;290;50;aktif
+51;Sulawesi Tengah;70;140;290;50;aktif
+52;Sulawesi Selatan;70;140;290;50;tidak_aktif
+53;Sulawesi Tenggara;70;175;290;50;tidak_aktif
+61;Gorontalo;25;175;320;50;tidak_aktif
+62;Sulawesi Barat;25;175;320;50;tidak_aktif
+63;Maluku;30;175;320;160;tidak_aktif
+64;Maluku Utara;30;175;320;160;tidak_aktif
+65;Papua;10;175;320;160;tidak_aktif
+71;Papua Barat;20;190;320;160;tidak_aktif
+72;Aceh;60;190;320;160;tidak_aktif
+73;Sumatera Utara;50;190;320;160;aktif
+74;Sumatera Barat;90;190;320;160;aktif
+75;Riau;20;190;320;256;aktif
+76;Jambi;20;190;320;256;aktif
+81;Sumatera Selatan;20;60;257;256;aktif
+82;Bengkulu;20;60;257;256;aktif
+91;Lampung;20;60;290;256;aktif
+92;Kepulauan Bangka Belitung;90;60;290;256;aktif
+9;Kepulauan Riau;90;60;290;200;tidak_aktif
+12;DKI Jakarta;90;60;290;200;tidak_aktif
+13;Jawa Barat;70;100;290;200;tidak_aktif
+14;Jawa Tengah;70;100;290;200;tidak_aktif
+15;DI Yogyakarta;70;100;320;200;tidak_aktif
+16;Jawa Timur;70;100;320;200;aktif
+17;Banten;70;100;320;200;aktif
+18;Bali;70;100;320;200;aktif
+19;Nusa Tenggara Barat;25;100;320;200;aktif
+21;Nusa Tenggara Timur;25;140;320;50;aktif
+31;Kalimantan Barat;30;140;320;50;aktif
+32;Kalimantan Tengah;30;140;320;50;aktif
+33;Kalimantan Selatan;10;140;320;50;tidak_aktif
+34;Kalimantan Timur;20;140;320;50;tidak_aktif
